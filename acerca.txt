@@ -1,0 +1,7 @@
+Proyecto: practica-gitflow
+
+Autor: cherdoudomar-coder
+
+Descripción: Práctica final del curso de Consola y Git.
+
++ Versión: v1.0.0 - Primera versión estable.

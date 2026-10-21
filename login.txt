@@ -1,0 +1,6 @@
+ FORMULARIO DE ACCESO
+ --------------------
+ Usuario: ________
+ Contraseña: ________
+                                                      [Iniciar sesión]
+                 ¿Olvidaste tu contraseña?
